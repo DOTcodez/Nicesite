@@ -1,0 +1,33 @@
+#con{
+	background : beige;
+	color: white;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#header, #footer{
+	text-align: center;
+	background-color: brown;
+	border: 5px outset gold; 
+}
+
+#nav{
+	text-align: center; 
+}
+
+td{
+	cursor: pointer;
+	width: 20%;
+	border: none;
+	border-radius: 210px;
+	background-color: darkred;
+	text-decoration: none;
+}
+
+td:hover{
+	background-color: red;
+}
+a:link{
+	color: white;
+	text-decoration: none;
+}
